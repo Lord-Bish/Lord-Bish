@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software engineering 
 - 💞️ I’m looking to collaborate on Git
 - 📫 How to reach me is through uchennabob@gmail.com, 
-my Git username or on WhatsApp +2448130280735
+my Git username or on WhatsApp +2348130280735
 
 <!---
 Lord-Bish/Lord-Bish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
